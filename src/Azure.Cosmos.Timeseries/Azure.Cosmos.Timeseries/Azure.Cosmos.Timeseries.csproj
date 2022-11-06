@@ -9,7 +9,8 @@
   <ItemGroup>
     <Folder Include="Core\Configurations\" />
     <Folder Include="Core\Models\Aggregate\" />
-    <Folder Include="Core\Services\Timeseries\" />
+    <Folder Include="Services\Aggregate\" />
+    <Folder Include="Services\Timeseries\" />
     <Folder Include="Query\" />
   </ItemGroup>
 
